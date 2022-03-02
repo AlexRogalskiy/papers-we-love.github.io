@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Papers We Love</title>
+  <subtitle>A repository of academic computer science research papers and a community who loves reading them.</subtitle>
+  <id>http://papers-we-love.github.io/</id>
+  <link href="http://papers-we-love.github.io/"/>
+  <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
+  <updated>2022-02-28T19:00:00-05:00</updated>
+  <author>
+    <name>Papers We Love</name>
+  </author>
+  <entry>
+    <title>March Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2022/news/march-meetups/"/>
+    <id>http://papers-we-love.github.io/2022/news/march-meetups/</id>
+    <published>2022-02-28T19:00:00-05:00</published>
+    <updated>2022-03-02T10:05:18-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for March across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 3/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/283704673/"&gt;A discussion on Differential Privacy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 3/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/284167960/"&gt;Program committee selection and Aaron D Goldman on "Liquid Data Networking"&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>February Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2022/news/february-meetups/"/>
+    <id>http://papers-we-love.github.io/2022/news/february-meetups/</id>
+    <published>2022-01-31T19:00:00-05:00</published>
+    <updated>2022-02-28T22:05:24-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for February across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 2/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/283686526/"&gt;Papers We Love @ Seattle General Chat&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 2/9&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Toronto/events/283482352/"&gt;[ONLINE] #34 Jenny Ren on Linux Performance Revolution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bangalore 2/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-we-love-Bangalore/events/283708242/"&gt;PWL Bangalore: February 2022 Meetup&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>January Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2022/news/january-meetups/"/>
+    <id>http://papers-we-love.github.io/2022/news/january-meetups/</id>
+    <published>2021-12-31T19:00:00-05:00</published>
+    <updated>2022-01-31T22:05:25-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for January across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 1/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfrydccbjb/"&gt;PWL #54: TBD&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>December Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2021/news/december-meetups/"/>
+    <id>http://papers-we-love.github.io/2021/news/december-meetups/</id>
+    <published>2021-11-30T19:00:00-05:00</published>
+    <updated>2021-12-31T22:05:23-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for December across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 12/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfryccqbdb/"&gt;PWL #54: TBD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 12/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/282471211/"&gt;Advent of Code (aka Language Shootout)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bangalore 12/17&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-we-love-Bangalore/events/282425828/"&gt;Papers We Love: December 2021 Meetup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Buenos Aires 12/17&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-buenos-aires/events/282701303/"&gt;Desanonimización de transacciones en TornadoCash y Ethereum&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>November Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2021/news/november-meetups/"/>
+    <id>http://papers-we-love.github.io/2021/news/november-meetups/</id>
+    <published>2021-10-31T20:00:00-04:00</published>
+    <updated>2021-11-30T22:05:24-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for November across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 11/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfryccpbgb/"&gt;PWL #70: Running BGP in Data Centers at Scale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 11/9&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/281849768/"&gt;Ben Marx on Running BGP in Data Centers at Scale&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>October Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2021/news/october-meetups/"/>
+    <id>http://papers-we-love.github.io/2021/news/october-meetups/</id>
+    <published>2021-09-30T20:00:00-04:00</published>
+    <updated>2021-10-31T22:05:26-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for October across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 10/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfryccnbkb/"&gt;PWL #54: TBD&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+</feed>
